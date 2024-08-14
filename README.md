@@ -1,0 +1,3 @@
+This is a personal script which I use to test websites. I have just decided to open source it since I can't continue developing it on my own...
+Anyway, this script has a tone of useful features, like Error Provoking, Port Scanning, Ping Testing and Gathering data about websites.
+Hope y'all like it! 
